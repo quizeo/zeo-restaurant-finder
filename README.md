@@ -6,10 +6,10 @@ To run the app locally, use the terminal command nodemon server or npm run dev.
 
 Sensitive information such as API keys is stored in a .env file. This includes variables like PORT, VALID_CODE (used to validate the code parameter), OPENROUTER_API_KEY (for the LLM using the DeepSeek model), and FOURSQUARE_API_KEY (for the Foursquare API).
 
-PORT=your_port_number
-VALID_CODE=your_validation_code
-OPENROUTER_API_KEY=your_openrouter_api_key
-FOURSQUARE_API_KEY=your_foursquare_api_key
+- `PORT=your_port_number`
+- `VALID_CODE=your_validation_code`
+- `OPENROUTER_API_KEY=your_openrouter_api_key`
+- `FOURSQUARE_API_KEY=your_foursquare_api_key`
 
 ### Assumptions and Limitations
 
