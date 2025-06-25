@@ -1,5 +1,11 @@
 ### Setup Instructions locally
 
+Install dependencies:
+
+```bash
+npm install
+```
+
 To run the app locally, use the terminal command nodemon server or npm run dev.
 
 ### Details on configuring environment variables
